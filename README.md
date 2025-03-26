@@ -21,7 +21,21 @@ This process involves a step-by-step walkthrough of **data preprocessing**, incl
 
 ## **🛠️Requirement**
 
+
+
+
+# Project Motativation:
+
 ## **⏮️Scenarios**
+I developed Google Forms for college projects of my friends and reviewed the dataset with them, originally not planned for deeper study. 
+Later, I chose to explore this qualitative (categorical) data through data mining. The work aimed to highlight the value of data collection and validation, while enhancing my grasp of categorical data and simple mapping methods.
+
+I examined the data to reveal patterns and insights that could guide decisions based on evidence.
+
+After completing this project, I was able to:
+* Show why validating data matters before analysis by proving its impact on decision quality.
+* Gather qualitative data via Google Forms, export it to Excel, and refine it by eliminating duplicates and NULL entries for cleaner analysis.
+* Perform exploratory analysis, such as frequency counts, cross-tabulation, statistical tests, data adjustments, and visual reviews, to uncover useful findings.
 
 ## **📁Key Files**
 
