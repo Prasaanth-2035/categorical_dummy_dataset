@@ -22,7 +22,7 @@ This process involves a step-by-step walkthrough of **data preprocessing**, incl
 This project was created in a **Microsoft Office Home and Student 2021** which made an Quick-analysis and queried dataset with **MySQL Workbench 8.0 CE 8.0.38.0** tools for data manipulation and 
 retrieve data for further analysis.
 
-# Project Motativation
+# ✅Project Motivation
 
 ## **⏮️Scenarios**
 I developed Google Forms for college projects of my friends and reviewed the dataset with them, originally not planned for deeper study. 
