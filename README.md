@@ -39,6 +39,33 @@ After completing this project, I was able to:
 
 ## **📁Key Files**
 
+I got an external dataset with help of my college friends, which connection to Marketing and sales – a topic I am interested in. The dataset contains data on:
+
+* Sales_Promotions,
+* Promotions_Product_Type,
+* Sales_Promotions_Frequency,
+* Decision_Factor,
+* Preferred_Promotions_Method,
+* Sales_Promotions_Industry,
+* Limited_Time_Purchase
+* Promotional_Offers,
+* Recommend_Promotion
+* Promotions_Hesitations
+* Sales_Promotions_Influence
+* Less_Appealing_Promotion
+* Product_TrialLikelihood
+* Sales_Promotions_Motivation
+* Product_Familiarity
+* Ad_Name
+* Ad_Motivation_Rating
+* Ad_Comparison_Rating
+* Degree_of_Descriptiveness
+* Time_Constraint
+* Ad_Recall
+* Ad_Concept
+* Advertising_Metric
+
+
 ## **🗣️Summary of findings**
 
 ## **👉Conclusion**
