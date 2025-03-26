@@ -19,9 +19,8 @@ Analyze **categorical data** to uncover hidden insights from **dummy data**.
 This process involves a step-by-step walkthrough of **data preprocessing**, including **data cleaning**, **exploratory techniques** such as **frequency analysis, cross-tabulation, statistical testing, data transformation**, and **visual exploration** to extract meaningful patterns.
 
 ## **🛠️Requirement**
-
-
-
+This project was created in a **Microsoft Office Home and Student 2021** which made an Quick-analysis and queried dataset with **MySQL Workbench 8.0 CE 8.0.38.0** tools for data manipulation and 
+retrieve data for further analysis.
 
 # Project Motativation:
 
@@ -37,7 +36,6 @@ After completing this project, I was able to:
 * Perform exploratory analysis, such as frequency counts, cross-tabulation, statistical tests, data adjustments, and visual reviews, to uncover useful findings.
 
 ## **📁Key Files**
-
 I got an external dataset with help of my college friends, which connection to Marketing and sales – a topic I am interested in. The dataset contains data on:
 
 * Sales_Promotions,
@@ -64,11 +62,8 @@ I got an external dataset with help of my college friends, which connection to M
 * Ad_Concept,
 * Advertising_Metric
 
-
-
-
-
 ## **🗣️Summary of findings**
+
 
 ## **👉Conclusion**
 
