@@ -62,7 +62,15 @@ I got an external dataset with help of my college friends, which connection to M
 * Ad_Concept,
 * Advertising_Metric
 
+
+
+
+
+
+
+
 ## **🗣️Summary of findings**
+
 
 
 ## **👉Conclusion**
