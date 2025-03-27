@@ -62,11 +62,26 @@ I got an external dataset with help of my college friends, which connection to M
 * Ad_Concept,
 * Advertising_Metric
 
+### 💼Brief Project Description:
+I exported the responses from Google Forms into an Excel spreadsheet for further exploration and saved the file as [filename]. 
+
+In Microsoft Excel, I quickly analyzed my project by accessing, cleaning, and splitting columns to properly structure the data. This dataset, which is entirely categorical (qualitative) in nature, was then mined for insights. 
+
+Now, let’s dive into the details of my exploratory data analysis:
+
+* Frequency Analysis: Calculated the occurrence of each category to reveal the data distribution.
 
 
+* Cross-Tabulation: Generated contingency tables to examine the relationships between key variables.
 
 
+* Statistical Testing: Applied chi-square tests to assess the significance of associations in the data.
 
+
+* Data Transformation: Reshaped and normalized the dataset to enhance clarity and analytical accuracy.
+
+
+* Visual Transformation: Created over ten visualizations to effectively highlight patterns and trends within the data.
 
 
 ## **🗣️Summary of findings**
