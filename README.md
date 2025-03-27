@@ -89,6 +89,7 @@ Now, let’s dive into the details of my exploratory data analysis:
 
 
 ## **👉Conclusion**
+Giordano Bruno said that — If the first button of one’s coat is wrongly buttoned, all the rest will be crooked.
 
 
 
