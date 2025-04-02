@@ -14,7 +14,7 @@ It emphasizes the importance of exploratory data analysis (EDA), including stati
    * Conclusion
 
 ## **🎯Objective**
-Analyze **categorical data** to uncover hidden insights from **dummy data**. 
+Analyze **categorical data** to uncover hidden patterns from **dummy data**. 
 
 This process involves a step-by-step walkthrough of **data preprocessing**, including **data cleaning**, **exploratory techniques** such as **frequency analysis, cross-tabulation, statistical testing, data transformation**, and **visual exploration** to extract meaningful patterns.
 
