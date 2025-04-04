@@ -63,7 +63,6 @@ I got an external dataset with help of my college friends, which connection to M
 * Advertising_Metric
 
 ### **💼Brief Project Description**
-__________________
 I exported the responses from Google Forms into an Excel spreadsheet for further exploration and saved the file as [filename]. 
 
 In Microsoft Excel, I quickly analyzed my project by accessing, cleaning, and splitting columns to properly structure the data. This dataset, which is entirely categorical (qualitative) in nature, was then mined for insights. 
