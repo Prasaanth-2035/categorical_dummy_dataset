@@ -84,7 +84,7 @@ Now, let’s dive into the details of my exploratory data analysis:
 * **Visual Transformation**: Created over ten visualizations to effectively highlight patterns and trends within the data.
 
 
-## **🗣️Summary of findings**
+## **🗣️Summary of Patterning**
 This project illustrates the critical importance of data validation and collection, uncovering insights that might otherwise lead to invalid conclusions. The process described here not only serves as a technical exploration but also tells a story of growth and discovery in handling categorical data.
 
 * Explored cross-tabulation: Transformed Ad_Motivation_Rating (1-3 stars as low, 4 star as medium, 5 star as high).
@@ -104,6 +104,7 @@ This project illustrates the critical importance of data validation and collecti
 
 ## **👉Conclusion**
 Giordano Bruno said that **"If the first button of one’s coat is wrongly buttoned, all the rest will be crooked."**
+
 
 
 
